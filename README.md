@@ -3,7 +3,7 @@
 
 
 # Description
-This is my MIT coursework project, that tracks the current location of MBTA BUS Route 1 between MIT and Harvard campus using mapbox as the mapping platform and accessing live bus gps information from the MBTA API. In this map, MBTA bus data is used to determine stops between MIT and Harvard with an animated marker on the map to highlight the bus routes and the use of an API to source real-time data of the Boston MBTA busses. Displaying live locations of the busses on a map. Using data from MBTA.
+This is my MIT coursework project, that tracks the current location of MBTA BUS Route 1 between MIT and Harvard campus using mapbox as the mapping platform and accessing live bus gps information from the MBTA API. The MBTA bus data is used to determine stops between MIT and Harvard with an animated marker on the map to highlight the bus routes and displays live locations of the busses on a map.
 
 # How to Run
 Try it out live at https://github.com/ggmziray/Real-TimeBusTracker
